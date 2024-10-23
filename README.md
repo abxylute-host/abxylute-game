@@ -6,4 +6,4 @@ With the abxylute S9 controller, you can configure the controller function and u
 abxylute game also has an iOS version, which needs to be downloaded from the App store.
 
 # Download
-- APK
+- [apk](https://github.com/abxylute-host/abxylute-game/releases/tag/v1.1)
