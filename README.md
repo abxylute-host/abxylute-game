@@ -6,7 +6,7 @@ With the [abxylute S9 controller](https://www.kickstarter.com/projects/abxylute/
 abxylute game also has an iOS version, which needs to be downloaded from the App store.
 
 # Download
-- [apk](https://github.com/abxylute-host/abxylute-game/releases/tag/v1.1)
+- [apk](https://github.com/abxylute-host/abxylute-game/releases/tag/v1.2)
 
 # Authors
 [abxylute](https://abxylute.com/)
