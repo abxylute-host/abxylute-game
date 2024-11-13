@@ -7,6 +7,7 @@ abxylute game also has an iOS version, which needs to be downloaded from the App
 
 # Download
 - [apk](https://github.com/abxylute-host/abxylute-game/releases/tag/v1.2)
+- [ipa](https://github.com/abxylute-host/abxylute-game/releases/tag/v1.2i)
 
 # Authors
 [abxylute](https://abxylute.com/)
